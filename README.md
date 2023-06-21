@@ -36,3 +36,9 @@ Freelancer Full Stack Developer
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=VinayG18&theme=dark&show_icons=true&locale=en&layout=compact" alt="VinayG18"  />
 <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=VinayG18&theme=dark" alt="VinayG18" /></p>
 
+## ❤ Visits in an account and Followers
+
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=VinayG18">
+</a>
+<a href="https://github.com/Kacper-Hernacki?tab=followers"><img src="https://img.shields.io/github/followers/VinayG18?label=Followers&style=social" alt="GitHub Badge"></a>
