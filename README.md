@@ -10,7 +10,7 @@ Freelancer Full Stack Developer
 * I’m looking to collaborate on projects.
 
 [![Twitter Badge](https://img.shields.io/badge/-@VinayG2404-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/VinayG2404)](https://twitter.com/VinayG2404) [![Linkedin Badge](https://img.shields.io/badge/-VinayGhael-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinay-ghael-31515078/)](https://www.linkedin.com/in/vinay-ghael-31515078/) 
-[![Gmail Badge](https://img.shields.io/badge/-vinay.g2404@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vinay.g2404@gmail.com)](mailto:vinay.g2404@gmail.com)
+<!---[![Gmail Badge](https://img.shields.io/badge/-vinay.g2404@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vinay.g2404@gmail.com)](mailto:vinay.g2404@gmail.com)-->
 
 ### Skills
 
