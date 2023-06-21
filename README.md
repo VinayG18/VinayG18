@@ -1,18 +1,16 @@
 Hi 👋 My name is Vinay Ghael
 ============================
 
-Web Developer
--------------
+## ⚡ About Me
 
 Freelancer Full Stack Developer
 
-* 🌍  I'm based in Gujarat, India
-* 🧠  I'm learning a Vue JS and React JS
+* I'm based in Gujarat, India
+* I'm currently learning a Vue JS and React JS
+* I’m looking to collaborate on projects.
 
-<a href="https://www.twitter.com/VinayG2404" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/VinayG2404?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/VinayG18" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/VinayG18?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+[![Twitter Badge](https://img.shields.io/badge/-@VinayG2404-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/VinayG2404)](https://twitter.com/VinayG2404) [![Linkedin Badge](https://img.shields.io/badge/-VinayGhael-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinay-ghael-31515078/)](https://www.linkedin.com/in/vinay-ghael-31515078/) 
+[![Gmail Badge](https://img.shields.io/badge/-vinay.g2404@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vinay.g2404@gmail.com)](mailto:vinay.g2404@gmail.com)
 
 ### Skills
 
@@ -30,11 +28,6 @@ src="https://img.shields.io/github/followers/VinayG18?logo=github&style=for-the-
 <a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Lavarel" /></a>
 </p>
-
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/VinayG18" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/VinayG2404" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
