@@ -35,5 +35,4 @@ Freelancer Full Stack Developer
 
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=VinayG18&theme=dark&show_icons=true&locale=en&layout=compact" alt="VinayG18"  />
 <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=VinayG18&theme=dark" alt="VinayG18" /></p>
-![](https://github-readme-streak-stats.herokuapp.com?user=VinayG18)
 
