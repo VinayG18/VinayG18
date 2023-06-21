@@ -29,10 +29,11 @@ Freelancer Full Stack Developer
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Lavarel" /></a>
 </p>
 
-<img align="right" alt="PNG" src="https://github.com/Vanshikapandey30/Vanshikapandey30/blob/main/assets/img/cat.png" width="300" height="300" />
+<img align="right" alt="PNG" src="https://github.com/VinayG18/VinayG18/blob/main/assets/images/cat.png" width="300" height="300" />
 
 <img alt="" src="https://github-readme-stats.vercel.app/api?username=VinayG18&theme=dark&count_private=true&show_icons=truehow_icons=true&hide_border=true" />
 
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=VinayG18&theme=dark&show_icons=true&locale=en&layout=compact" alt="VinayG18"  />
 <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=VinayG18&theme=dark" alt="VinayG18" /></p>
+![](https://github-readme-streak-stats.herokuapp.com?user=VinayG18)
 
