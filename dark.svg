@@ -52,15 +52,15 @@
   <clipPath id="lc10"><rect x="500" y="248.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="1.90s" fill="freeze"/></rect></clipPath>
   <clipPath id="lc11"><rect x="500" y="270.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.02s" fill="freeze"/></rect></clipPath>
   <clipPath id="lc12"><rect x="500" y="292.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.13s" fill="freeze"/></rect></clipPath>
-  <clipPath id="lc13"><rect x="500" y="314.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.25s" fill="freeze"/></clipPath>
-  <clipPath id="lc14"><rect x="500" y="336.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.36s" fill="freeze"/></clipPath>
-  <clipPath id="lc15"><rect x="500" y="358.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.48s" fill="freeze"/></clipPath>
-  <clipPath id="lc16"><rect x="500" y="380.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.59s" fill="freeze"/></clipPath>
-  <clipPath id="lc17"><rect x="500" y="402.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.71s" fill="freeze"/></clipPath>
-  <clipPath id="lc18"><rect x="500" y="424.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.82s" fill="freeze"/></clipPath>
-  <clipPath id="lc19"><rect x="500" y="446.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.94s" fill="freeze"/></clipPath>
-  <clipPath id="lc20"><rect x="500" y="468.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="3.05s" fill="freeze"/></clipPath>
-  <clipPath id="lc21"><rect x="500" y="490.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="3.17s" fill="freeze"/></clipPath>
+  <clipPath id="lc13"><rect x="500" y="314.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.25s" fill="freeze"/></rect></clipPath>
+  <clipPath id="lc14"><rect x="500" y="336.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.36s" fill="freeze"/></rect></clipPath>
+  <clipPath id="lc15"><rect x="500" y="358.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.48s" fill="freeze"/></rect></clipPath>
+  <clipPath id="lc16"><rect x="500" y="380.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.59s" fill="freeze"/></rect></clipPath>
+  <clipPath id="lc17"><rect x="500" y="402.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.71s" fill="freeze"/></rect></clipPath>
+  <clipPath id="lc18"><rect x="500" y="424.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.82s" fill="freeze"/></rect></clipPath>
+  <clipPath id="lc19"><rect x="500" y="446.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.94s" fill="freeze"/></rect></clipPath>
+  <clipPath id="lc20"><rect x="500" y="468.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="3.05s" fill="freeze"/></rect></clipPath>
+  <clipPath id="lc21"><rect x="500" y="490.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="3.17s" fill="freeze"/></rect></clipPath>
   <style>
     .ascii       { font-family: 'Courier New', Consolas, monospace; font-size: 6.8px; font-weight: bold; fill: url(#asciiGrad); letter-spacing: -0.2px; line-height: 1.0; }
     .key         { font-family: 'Courier New', Consolas, monospace; font-size: 14px; fill: #22D3EE; font-weight: bold; }
@@ -152,18 +152,18 @@
   <g clip-path="url(#lc3)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="106" class="cc">. </tspan><tspan class="key">Focus</tspan><tspan class="cc">: ............................ </tspan><tspan class="value">Data Analytics | Python | AI</tspan></text></g>
   <g clip-path="url(#lc4)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="128" class="cc">. </tspan><tspan class="key">Experience</tspan><tspan class="cc">: ....................... </tspan><tspan class="value">10+ Years</tspan></text></g>
   <g clip-path="url(#lc5)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="150" class="cc">. </tspan><tspan class="key">Location</tspan><tspan class="cc">: ......................... </tspan><tspan class="value">Gujarat, India</tspan></text></g>
-  <g clip-path="url(#lc6)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="172" class="cc">. </t></text></g>
+  <g clip-path="url(#lc6)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="172" class="cc">. </text></g>
   <g clip-path="url(#lc7)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="194" class="cc">. </tspan><tspan class="key">Languages</tspan><tspan class="cc">: ........................ </tspan><tspan class="value">Python, PHP, SQL, JavaScript</tspan></text></g>
   <g clip-path="url(#lc8)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="216" class="cc">. </tspan><tspan class="key">Backend</tspan><tspan class="cc">: .......................... </tspan><tspan class="value">Laravel, REST APIs</tspan></text></g>
   <g clip-path="url(#lc9)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="238" class="cc">. </tspan><tspan class="key">Database</tspan><tspan class="cc">: ......................... </tspan><tspan class="value">PostgreSQL, MySQL</tspan></text></g>
   <g clip-path="url(#lc10)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="260" class="cc">. </tspan><tspan class="key">Analytics</tspan><tspan class="cc">: ........................ </tspan><tspan class="value">Power BI, Pandas</tspan></text></g>
   <g clip-path="url(#lc11)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="282" class="cc">. </tspan><tspan class="key">AI</tspan><tspan class="cc">: ............................... </tspan><tspan class="value">Prompt Engineering</tspan></text></g>
-  <g clip-path="url(#lc12)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="304" class="cc">. </t></text></g>
+  <g clip-path="url(#lc12)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="304" class="cc">. </text></g>
   <g clip-path="url(#lc13)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="326" class="accent">- Contact</tspan><tspan class="cc"> ———————————————————————————————————————————</tspan></text></g>
   <g clip-path="url(#lc14)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="348" class="cc">. </t><tspan class="key">Email</tspan><tspan class="cc">: ............................ </tspan><tspan class="value">vinay.g2404@gmail.com</tspan></text></g>
   <g clip-path="url(#lc15)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="370" class="cc">. </t><tspan class="key">GitHub</tspan><tspan class="cc">: ........................... </tspan><tspan class="value">github.com/VinayG18</tspan></text></g>
   <g clip-path="url(#lc16)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="392" class="cc">. </t><tspan class="key">LinkedIn</tspan><tspan class="cc">: ......................... </tspan><tspan class="value">vinay-ghael-31515078</tspan></text></g>
-  <g clip-path="url(#lc17)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="414" class="cc">. </t></text></g>
+  <g clip-path="url(#lc17)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="414" class="cc">. </text></g>
   <g clip-path="url(#lc18)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="436" class="accent">- Status</tspan><tspan class="cc"> ———————————————————————————————————————————</tspan></text></g>
   <g clip-path="url(#lc19)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="458" class="cc">. </t><tspan class="key">Current Goal</tspan><tspan class="cc">: ..................... </tspan><tspan class="value">Building AI-Powered Solutions</tspan></text></g>
   <g clip-path="url(#lc20)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="480" class="cc">. </t><tspan class="key">Open To</tspan><tspan class="cc">: .......................... </tspan><tspan class="value">Senior SDE | Data Analytics | AI</tspan></text></g>
